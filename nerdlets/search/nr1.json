@@ -1,0 +1,13 @@
+{
+  "schemaType": "NERDLET",
+  "id": "search",
+  "displayName": "NRU - Japan",
+  "context": {
+    "entities": [
+      { "domain": "APM", "type": "APPLICATION" },
+      { "domain": "BROWSER", "type": "APPLICATION" },
+      { "domain": "MOBILE", "type": "APPLICATION" }
+    ]
+  },
+  "description": ""
+}
