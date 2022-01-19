@@ -1,0 +1,19 @@
+{
+  "tagline": "Newflix",
+  "details": "New Relic learning videos for Japanese",
+  "categoryTerms": [],
+  "keywords": ["Learning"],
+  "repository": "https://github.com/newrelickk/nr1-kk-learning-videos.git",
+  "whatsNew": "First release",
+  "support": {
+    "email": {
+      "address": "tazuma@newrelic.com"
+    },
+    "issues": {
+      "url": "https://github.com/newrelickk/nr1-kk-learning-videos/issues"
+    },
+    "community": {
+      "url": ""
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "schemaType": "NERDLET",
   "id": "search",
-  "displayName": "NRU - Japan",
+  "displayName": "Newflix",
   "context": {
     "entities": [
       { "domain": "APM", "type": "APPLICATION" },
@@ -9,5 +9,5 @@
       { "domain": "MOBILE", "type": "APPLICATION" }
     ]
   },
-  "description": ""
+  "description": "New Relic learning videos for Japanese"
 }
