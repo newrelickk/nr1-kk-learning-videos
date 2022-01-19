@@ -3,6 +3,18 @@ You can see New Relic use case with this application.
 Try to see the video at first when you don't know how to use the NR1 UI for your work.  
 You can access to the application from Apps or side menu of APM, Browser and Mobile apps in NR1.   
 
+## Quick start
+
+You can publish this application with Github Actions.
+
+1. Please fork this repository
+
+2. Please create / copy USER key. You can create a key [here](https://one.newrelic.com/launcher/api-keys-ui.api-keys-launcher) and The USER key sould be generated for master acccount.
+
+3. Please create "Github Repository secret (Settings > Secrets > New repository secret)" Name=NR_USER_KEY Value=${YOUR USER KEY}
+
+4. Only first time, Please execute "Publish New Relic Application" action. This task every time failed but you can ignore failure.
+
 
 ## Getting started
 
