@@ -1,0 +1,68 @@
+#root {
+  background-color: #F3F4F4 !important;
+}
+
+.learning {
+  height: 100%;
+  width: 100%;
+  .searchBar {
+    background-color: #ffffff;
+    padding: 9px;
+    margin: 0 0 8px 0;
+    .searchField {
+      width: 100%;
+    }
+  }
+  .mainContents {
+    height: calc(100% - 50px);
+    position: relative;
+
+    .filter {
+      background-color: #ffffff;
+      height: 100%;
+
+      .list {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+
+        .item {
+          padding: 8px;
+        }
+      }
+    }
+
+    .contents {
+      background-color: #ffffff;
+      height: 100%;
+      padding: 16px;
+      overflow-y: auto;
+
+      .contentItem {
+        width: 320px;
+        border: 1px solid #aaaaaa;
+        height: 240px;
+        margin: 16px;
+        padding: 16px;
+        display: flex;
+        float: left;
+        flex-direction: column;
+
+        .contentName {
+          font-size: 24px;
+          flex-grow: 1;
+        }
+
+        .contentTags {
+          .tag {
+            padding: 4px 8px;
+            font-weight: bold;
+            float: left
+          }
+
+        }
+
+      }
+    }
+  }
+}
