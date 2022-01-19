@@ -3,5 +3,5 @@
   "id": "new-relic-learning-launcher",
   "displayName": "Newflix",
   "description": "New Relic learning videos for Japanese",
-  "rootNerdletId": "6259f408-c3cf-4d1c-b626-16f4653ca8fa.search"
+  "rootNerdletId": "search"
 }
