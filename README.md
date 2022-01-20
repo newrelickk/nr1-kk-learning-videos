@@ -15,6 +15,13 @@ You can publish this application with Github Actions.
 
 4. Only first time, Please execute "Publish New Relic Application" action. This task every time failed but you can ignore failure.
 
+## Sample images
+Use application from New Relic Apps
+![Screenshot #1](images/apps.png)
+
+Use application from APM UI
+![Screenshot #2](images/apm.png)
+
 
 ## Getting started
 
